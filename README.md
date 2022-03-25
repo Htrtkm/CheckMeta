@@ -20,9 +20,9 @@ input files are too large to push to this repository. therefore, please refer to
 /data2/takumi/scratch/workspace/assembly/${position}_finalseq.fa
 ```
 ※position:
- rumen -> ru
- reticulum -> re
- omasum -> om
- abomasum -> ab
- small intestine -> si
- large intestine -> li
+ rumen -> ru, 
+ reticulum -> re, 
+ omasum -> om, 
+ abomasum -> ab, 
+ small intestine -> si, 
+ large intestine -> li,
